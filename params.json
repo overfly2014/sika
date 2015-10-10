@@ -1,0 +1,1 @@
+{"name":"Sika","tagline":"简单的blog，flask搭建，学习《Flask Web开发》成果","body":"#sika\r\n\r\n简单的blog，flask搭建，学习《Flask Web开发》成果 \r\n\r\n```\r\nsource venv/bin/activate #启动虚拟环境\r\npython manage.py db upgrade #数据库迁移\r\npython manage.py runserver #启动\r\n```\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
